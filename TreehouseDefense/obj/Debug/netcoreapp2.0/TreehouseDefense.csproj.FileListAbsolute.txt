@@ -1,0 +1,4 @@
+C:\Users\Maxime\Documents\GitHub\Projects\CSharp\TreehouseApp\TreehouseDefense\TreehouseDefense\obj\Debug\netcoreapp2.0\TreehouseDefense.csprojResolveAssemblyReference.cache
+C:\Users\Maxime\Documents\GitHub\Projects\CSharp\TreehouseApp\TreehouseDefense\TreehouseDefense\obj\Debug\netcoreapp2.0\TreehouseDefense.csproj.CoreCompileInputs.cache
+C:\Users\Maxime\Documents\GitHub\Projects\CSharp\TreehouseApp\TreehouseDefense\TreehouseDefense\obj\Debug\netcoreapp2.0\TreehouseDefense.AssemblyInfoInputs.cache
+C:\Users\Maxime\Documents\GitHub\Projects\CSharp\TreehouseApp\TreehouseDefense\TreehouseDefense\obj\Debug\netcoreapp2.0\TreehouseDefense.AssemblyInfo.cs
